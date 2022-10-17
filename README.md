@@ -7,3 +7,9 @@ Contracts where written long before they was commited here.
   - contract for handling Erc20s on Ledger Nano S when only Ether was supported. 
   - written 2016 November
   - canceled due to native implementation
+
+
+`TenXRewards.sol`
+  - contract for displaying unclaimed staking reward in wallets
+  - written 2020 April
+  - deployed on mainnet
